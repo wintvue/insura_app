@@ -118,7 +118,7 @@ export default function Hero() {
         {/* Social Proof */}
         <div className="mt-16 bg-white/10 backdrop-blur-sm rounded-2xl p-6 max-w-3xl mx-auto">
           <p className="text-yellow-400 font-bold mb-2">⭐⭐⭐⭐⭐</p>
-          <p className="text-lg">"5.247 nasabah sudah merasakan manfaatnya!"</p>
+                            <p className="text-lg">&ldquo;5.247 nasabah sudah merasakan manfaatnya!&rdquo;</p>
           <p className="text-sm text-gray-300 mt-2">*Data per November 2024</p>
         </div>
       </div>

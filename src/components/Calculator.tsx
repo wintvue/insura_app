@@ -188,7 +188,7 @@ export default function Calculator() {
               <div className="text-center py-12">
                 <div className="text-6xl mb-4">🧮</div>
                 <p className="text-gray-500 text-lg">
-                  Masukkan data Anda dan klik "Hitung Proyeksi Manfaat" 
+                  Masukkan data Anda dan klik &ldquo;Hitung Proyeksi Manfaat&rdquo; 
                   untuk melihat hasil kalkulasi
                 </p>
               </div>

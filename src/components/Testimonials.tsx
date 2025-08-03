@@ -86,7 +86,7 @@ export default function Testimonials() {
                       <span key={i} className="text-yellow-400 text-xl">⭐</span>
                     ))}
                   </div>
-                  <p className="text-gray-300 italic text-center">"{testimonial.quote}"</p>
+                  <p className="text-gray-300 italic text-center">&ldquo;{testimonial.quote}&rdquo;</p>
                 </div>
               </div>
             ))}
@@ -110,7 +110,7 @@ export default function Testimonials() {
                   </div>
                 </div>
                 
-                <p className="text-gray-300 italic mb-4">"{customer.quote}"</p>
+                <p className="text-gray-300 italic mb-4">&ldquo;{customer.quote}&rdquo;</p>
                 
                 <div className="bg-yellow-500 text-black px-4 py-2 rounded-lg font-bold text-center">
                   {customer.benefit}
